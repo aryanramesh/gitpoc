@@ -9,4 +9,5 @@ void main()
 	printf("Bangalore");
 	printf("chennai");
 	printf("feature1 commit1");
+	printf("feature1 commit2");
 }
