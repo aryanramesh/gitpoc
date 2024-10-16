@@ -6,4 +6,5 @@ void main()
 	printf("Welcome");
 	printf("Help to add");
 	printf("Hyderabad");
+	printf("Bangalore");
 }
